@@ -1,0 +1,18 @@
+nikahku online
+
+what : sebuah software yang bertujuan untuk memudahkan seseorang (user/client) dalam hal pernikahan.
+who : tim developer, user/client.
+why : sesuai dengan tujuan awal, software ini dibuat untuk mempermudah user/client di dalam acara pernikahan
+when : permintaan user (client)
+where : WEB, Android, PC
+how :	User/CLient mengajukan permohonan kepada tim developper melalui software nikahku.online, kemudian user diwajibkan untuk mengisi
+	formulir sign Up (pendaftaran) serta menyelesaikan transaksi. setelah semua proses tersebut selesai dilakukan, tim developer melakukan
+	verifikasi. jika formulir telah di approved, barulah user mendapatkan akun. akun tersebut untuk selanjutnya digunakan oleh user untuk
+	memilih desain undangan dan memonitor acara pernikahannya.
+
+Fitur / kelebihan : 	- Dapat mempermudah dalam hal management pernikahan.
+			- mempersingkat waktu dalam proses penyebaran undangan.
+			- mempermudah penerima tamu dalam men data siapa saja yang datang ke acara dengan fitur scan barcode
+			- desain undangan sesuai selera
+			- tamu dapat memesan makanan/minuman sesuai dengan menu yang disediakan tanpa harus beranjak dari tempat duduk nya (coming soon)
+			
